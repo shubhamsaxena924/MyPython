@@ -1,4 +1,4 @@
-import ppb
+import ppb  # PursuedPyBear
 from ppb.features import default_sprites
 
 
